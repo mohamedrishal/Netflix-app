@@ -1,0 +1,9 @@
+-
+
+  baseURL: "https://api.themoviedb.org/3",
+
+
+  //Base url of image
+  const base_url = "https://image.tmdb.org/t/p/original/";
+
+fetchNetflixOriginals :-  https://api.themoviedb.org/3/discover/tv?api_key=${APIKEY}&with_networks=213
